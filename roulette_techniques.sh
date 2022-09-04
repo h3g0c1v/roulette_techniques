@@ -1,13 +1,5 @@
 #!/bin/bash
 
-# Técnicas
-#   D’Alembert
-#   Secuencia de Fibonacci
-#   Paroli
-#   Óscar Grind
-#   Guetting
-#   Labouchere
-
 #Colores
 green="\e[0;32m\033[1m"
 end="\033[0m\e[0m"
